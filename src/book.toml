@@ -1,0 +1,6 @@
+[book]
+authors = ["Jeevan Vetteel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MDN-Edu-Handbook"
