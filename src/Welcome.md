@@ -2,7 +2,7 @@
 
 # Welcome
 
-Welcome and congratulations on joining the MDN Education team. T
+Welcome and congratulations on joining the MDN Education team. 
 
 This is the Education Training Book which contains the training material which covers much of the prerequisite content necessary to deliver workshops or provide education as part of MDN.
 

@@ -4,7 +4,7 @@ For every workshop you present with us, there will be three types of members in 
 
 For each of these archetypes, here are our goals:
 
-![THis is an aim](/images/audience-1.png)
+![THis is an aim](src/audiencee.png)
 
 Different workshops will have different ratios of Nyans, Nikhils and Tylers:
 
