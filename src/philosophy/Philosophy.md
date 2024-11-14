@@ -24,15 +24,23 @@ To make this philosophy a reality, we need systems that are not just efficient b
 ## **The Bridge (Spider-Man)**
 
 As members of the education branch, we are the bridge—like Spider-Man, connecting not only students to knowledge but the entire MDN ecosystem to the spirit of education. This means standing in the gap, understanding and deeply connecting with both our students and our fellow branches. Like Spider-Man, who learns as he grows, we remain open, humble, and always willing to learn from those we teach and those we work with. We’re here to promote humility, foster connection, and ensure that our students and collaborators alike feel supported on their educational journey.
+<figure>
+  <img src="./images/phil1.png" alt="Philosophy">
+</figure>
 
 ## **The Jaeger**
 
 In our work, we don’t operate as individual pilots but as one united Jaeger. Every class, every project is an “us,” not an “I.” We move in sync, sharing knowledge, strategies, and updates openly so that every branch can see our progress and contributions. By working harmoniously as one, we model a culture of full transparency and trust, creating an environment where all voices are valued, and all updates are shared. We are not just a team; we are a *collective* moving as one to achieve something greater than any single person could.
+<figure>
+  <img src="./images/phil2.png" alt="Philosophy">
+</figure>
 
 ## **The Hamilton**
 
 We don’t settle for average; we aim to *overperform and overdeliver.* Just like Hamilton, we seize every opportunity to make a lasting impact, producing high-quality content that doesn’t just serve today’s needs but becomes a legacy for future education members. We set a bar that inspires others, putting in the energy and creativity needed to create work that resonates, endures, and serves as a standard for future generations. We lead by example, showing that dedication and performance are not just expectations—they’re commitments we live by.
-
+<figure>
+  <img src="./images/phil3.png" alt="Philosophy">
+</figure>
 
 ---
 
