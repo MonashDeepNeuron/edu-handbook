@@ -2,17 +2,19 @@
 
 - [Philosophy](./Philosophy.md)
 - [Setup & Member Induction](./Team-Member-Induction.md)
-- [Workshop preparation](./workshop-admin/workshop-admin.md) 
+- [Workshop Administration](./workshop-admin/workshop-admin.md) 
+  - [High School Outreach](./workshop-admin/hsoutreach.md)
   - [Timing Strategy](./workshop-admin/timing-strategy.md)
+  - [Location](./workshop-admin/location.md)
+  - [Marketing](./workshop-admin/marketing.md)
+
 - [Workshop preparation](./workshop-prep/workshop-prep.md)
   - [The Audience](./workshop-prep/audience.md) 
   - [The Speaker](./workshop-prep/speaker.md) 
   - [The Journey](./workshop-prep/journey.md) 
   - [Journey Framework](./workshop-prep/journey-framework.md) 
   - [FERAL Framework](./workshop-prep/FERAL-framework.md) 
-  - [Workshop Administration](./workshop-prep/workshop-admin.md) 
-  - [Steps to Preparing Workshop](./workshop-prep/steps-workshop.md) 
-  
+
 - [Workshop Presentation](./workshop-pres/Workshop-Presentation.md)
   - [Questioning](./workshop-pres/questioning.md) 
   - [Aids/Props](./workshop-pres/props.md) 
@@ -24,6 +26,7 @@
   - [Control](./workshop-pres/control.md) 
   - [Knowledge](./workshop-pres/knowledge.md) 
   - [Adaptability](./workshop-pres/adaptability.md) 
+  - [Activity](./workshop-pres/identify.md)
   
 - [Intro to PowerPoint](./Intro-to-PowerPoint.md)
   - [Before the pptx](.intro-to-ppt/Before-the-pptx.md)
