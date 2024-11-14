@@ -2,7 +2,8 @@
 
 - [Philosophy](./Philosophy.md)
 - [Setup & Member Induction](./Team-Member-Induction.md)
-  
+- [Workshop preparation](./workshop-admin/workshop-admin.md) 
+  - [Timing Strategy](./workshop-admin/timing-strategy.md)
 - [Workshop preparation](./workshop-prep/workshop-prep.md)
   - [The Audience](./workshop-prep/audience.md) 
   - [The Speaker](./workshop-prep/speaker.md) 
@@ -25,6 +26,18 @@
   - [Adaptability](./workshop-pres/adaptability.md) 
   
 - [Intro to PowerPoint](./Intro-to-PowerPoint.md)
+  - [Before the pptx](.intro-to-ppt/Before-the-pptx.md)
+  - [Sharing](.intro-to-ppt/sharing.md)  
+  - [Design Language](.intro-to-ppt/design-language.md) 
+  - [Transitions](.intro-to-ppt/transitions.md) 
+  - [Animations](.intro-to-ppt/animations.md) 
+  - [Images](.intro-to-ppt/images.md)
+  - [Formatting](.intro-to-ppt/formatting.md)
+  - [3D Assets](.intro-to-ppt/3dass.md)
+    - [Finding](.intro-to-ppt/3dass-finding.md)
+    - [Using](.intro-to-ppt/3dass-using.md)     
+- [Intro to 3D Modelling](./intro-to-3d.md)
 - [Intro to Google Colab](./intro-to-google-colab.md)
+
 
 [Acknowledgements](./acknowledgements.md)

@@ -4,15 +4,25 @@ For every workshop you present with us, there will be three types of members in 
 
 For each of these archetypes, here are our goals:
 
-![THis is an aim](src/audiencee.png)
+<figure>
+  <img src="./images/audience.png" alt="Audience">
+  <figcaption>These archetypes exist irrespective of age</figcaption>
+</figure>
+
 
 Different workshops will have different ratios of Nyans, Nikhils and Tylers:
 
-You’ll have to tailor your workshops to appeal to the dominant archetype/s you presume will be there on the day. 
 
-    If you have a lot of Nikhils, you want to go technically deeper, making sure you stimulate them intellectually. 
-    
-    Conversely, if you have a classroom of Tylers, your pure focus should be keeping them engaged.
+<figure>
+  <img src="./images/audience-2.png" alt="Audience">
+  <figcaption>These archetypes exist irrespective of age</figcaption>
+</figure>
+
+You’ll have to tailor your workshops to appeal to the dominant archetype/s you presume will be there on the day.
+
+> If you have a lot of Nikhils, you want to go technically deeper, making sure you stimulate them intellectually.  
+>  
+> Conversely, if you have a classroom of Tylers, your pure focus should be keeping them engaged.
 
 The degree to which they’re engaged depends entirely on your judgement of which archetype dominates your audience as they should guide the scope and actual content, which will be covered later.
 
