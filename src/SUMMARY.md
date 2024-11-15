@@ -6,6 +6,7 @@
   - [OneDrive](./setup/od.md)
   - [Expectations](./setup/expectations.md)
   - [Meetings](./setup/meetings.md)
+  
 - [Workshop Administration](./workshop-admin/workshop-admin.md) 
   - [High School Outreach](./workshop-admin/hsoutreach.md)
   - [Timing Strategy](./workshop-admin/timing-strategy.md)
