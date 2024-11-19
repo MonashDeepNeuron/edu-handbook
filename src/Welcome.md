@@ -19,6 +19,12 @@ This can involve things such as running workshops, holding events, crafting reso
 Within Education, you'll learn how to clearly articulate technical concepts relating to AI and HPC, alongside the tangential skills necessary to do so in an engaging, exciting way.
 
 
+## Why does Education at MDN Exist?
+
+In recognition that AI has become a major forefront in our future, MDN Education aims to provide the important skills of AI literacy and comprehension to all and prepare them in coexisting with AI. 
+
+This, we believe, underpins the team’s importance and the immense responsibility they shoulder in leading the future generation.
+
 ## Education Training
 
 ### What is all this and what is it for?

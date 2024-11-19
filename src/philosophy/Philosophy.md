@@ -49,3 +49,4 @@ We don’t settle for average; we aim to *overperform and overdeliver.* Just lik
 We’re not here to “teach” in the traditional sense. We’re here to empower, to ignite, to revolutionize. Education, when done right, is the strongest force for good, capable of saving minds, expanding horizons, and changing the world. This is our mission. And every student who sits in front of us is a chance to make that vision a reality.
 
 Know that we don’t see ourselves as AI educators, nor HPC educators or programming educators. We’re educators, *period*. As a member of this branch, you have every right and opportunity to go above and beyond, to improve and grow in your skills, in your learning, in your personal life. As much as we transform the world to bring people closer to love and joy of learning, we very much hope that you transform to become the very best version of yourself.
+

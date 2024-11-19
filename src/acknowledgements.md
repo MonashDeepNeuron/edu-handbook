@@ -6,7 +6,8 @@ This book is part of Monash DeepNeurons collection of internal training resource
 
 - [Jeevan Vetteel](https://github.com/jv-ds)
 - [Jayus Thiha](.)
+- [Nicholas Chan](.)
 
 ## Contributors
 
-- [Tyler Swann](https://github.com/oraqlle)
+- [Jeevan Vetteel](https://github.com/jv-ds)
