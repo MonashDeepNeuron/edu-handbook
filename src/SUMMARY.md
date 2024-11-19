@@ -35,7 +35,8 @@
   
 - [Intro to PowerPoint](./intro-to-ppt/Intro-to-PowerPoint.md)
   - [Before the pptx](intro-to-ppt/Before-the-pptx.md)
-  - [Sharing](intro-to-ppt/sharing.md)  
+  - [Sharing](intro-to-ppt/sharing.md)
+  - [Editing](intro-to-ppt/editing.md)  
   - [Design Language](intro-to-ppt/design-language.md) 
   - [Transitions](intro-to-ppt/transitions.md) 
   - [Animations](intro-to-ppt/animations.md) 
