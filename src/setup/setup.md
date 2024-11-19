@@ -4,4 +4,4 @@ In this chapter you'll setup some essential tools that you will be using through
 
 Note that some sections are specific to particular teams and/or portfolios within MDN. 
 
-Only complete the section that is relevant to you. 
+Only complete the section/s that is/are relevant to you. 
