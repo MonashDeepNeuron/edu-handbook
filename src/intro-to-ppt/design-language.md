@@ -4,9 +4,9 @@ Design language is the set of visual elements, principles, and rules that define
 
 It it crucial that all PowerPoints have a <ins>consistent</ins> design language (unless the nature of the workshop requires otherwise) as this helps us make the presentation more aesthetic.
 
-Fortunately, as an MDN member, there is not much work required from your end since our Marketing team has already made an [**MDN Brand Guide**](https://www.figma.com/design/iKeXPDst2rOSixPH4cdOFY/MDN-Brand-Kit)
+Fortunately, as an MDN member, there is not much work required from your end since our Marketing team has already made an [**MDN Brand Guide (Figma)**](https://www.figma.com/design/iKeXPDst2rOSixPH4cdOFY/MDN-Brand-Kit)
 
-[Click here to Visit the MDN Brand Guide (Figma)](https://www.figma.com/design/iKeXPDst2rOSixPH4cdOFY/MDN-Brand-Kit)
+[**Click here to use the MDN Brand Guide (GDrive)**](https://drive.google.com/drive/u/4/folders/1BdJdZeJcvKBNRaSnMc5dYoFNmx9-wRc5)
 
 This brand kit is quite comprehensive on MDN's visual identity. 
 
