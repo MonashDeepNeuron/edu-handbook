@@ -5,7 +5,7 @@ This book is part of Monash DeepNeurons collection of internal training resource
 ## Authors
 
 - [Jeevan Vetteel](https://github.com/jv-ds)
-- [Jayus Thiha](.)
+- [Jayus Thiha](https://github.com/myGithubPassword)
 - [Sanithma Mahawithanage](https://github.com/SaniMah)
 
 ## Contributors
