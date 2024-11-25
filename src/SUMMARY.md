@@ -2,8 +2,7 @@
 
 - [Philosophy](./philosophy/Philosophy.md)
 - [Setup & Member Induction](./setup/setup.md)
-  - [PowerPoint](./setup/pptx.md)
-  - [OneDrive](./setup/od.md)
+  - [Office 365](./setup/pptx.md)
   - [Expectations](./setup/expectations.md)
   - [Meetings](./setup/meetings.md)
   
