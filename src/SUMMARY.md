@@ -31,7 +31,6 @@
   - [Activity](./workshop-pres/identify.md)
   
 - [Intro to PowerPoint](./intro-to-ppt/Intro-to-PowerPoint.md)
-  - [Before the pptx](intro-to-ppt/Before-the-pptx.md)
   - [Sharing](intro-to-ppt/sharing.md)
   - [Editing](intro-to-ppt/editing.md)  
   - [Design Language](intro-to-ppt/design-language.md) 
