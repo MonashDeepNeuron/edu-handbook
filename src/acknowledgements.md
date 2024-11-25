@@ -12,6 +12,6 @@ This book is part of Monash DeepNeurons collection of internal training resource
 
 - [Jeevan Vetteel](https://github.com/jv-ds)
 - [Nicholas Chan](.)
-- [Flynn Gill](.)
+- [Flynn Gill](https://www.linkedin.com/in/flynn-gill-148b682b4/)
 - [Tyler Swann](https://github.com/oraqlle)
 
