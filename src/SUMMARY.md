@@ -45,5 +45,13 @@
 - [Intro to Google Colab](./intro-to-google-colab.md)
 
 - [Intro to DL](./intro-to-dl/intro-to-dl.md)
+  - [What is DL](./intro-to-dl/what.md)
+  - [Why now?](./intro-to-dl/why.md)
+  - [Types of ML](./intro-to-dl/types.md)
+  - [The Tensor](./intro-to-dl/tensor.md)
+  - [The Neuron](./intro-to-dl/neuron.md)
+  - [Dense Layers & Output](./intro-to-dl/output.md)
+  - [The Loss Function](./intro-to-dl/loss.md)
+  - [Backward Propagation](./intro-to-dl/backprop.md)
 
 [Acknowledgements](./acknowledgements.md)
