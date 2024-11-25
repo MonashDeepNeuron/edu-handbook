@@ -10,7 +10,6 @@ This book is part of Monash DeepNeurons collection of internal training resource
 
 ## Contributors
 
-- [Jeevan Vetteel](https://github.com/jv-ds)
 - [Nicholas Chan](.)
 - [Flynn Gill](https://www.linkedin.com/in/flynn-gill-148b682b4/)
 - [Tyler Swann](https://github.com/oraqlle)
