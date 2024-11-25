@@ -8,6 +8,8 @@ If however, it has voluntary attendance, ensure you get the teacher contact to p
 
 ## University Workshops
 
-MDN has a dedicated marketing team to manage marketing for events.
+MDN has a [dedicated marketing team](https://www.deepneuron.org/marketing) to manage marketing for events.
 
 Reach out to them to set up posts etc. 
+
+How to market the event is beyond the scope of this booklet.
