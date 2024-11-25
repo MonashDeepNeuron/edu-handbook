@@ -5,10 +5,12 @@ This book is part of Monash DeepNeurons collection of internal training resource
 ## Authors
 
 - [Jeevan Vetteel](https://github.com/jv-ds)
+- [Sanithma Mahawithanage](https://github.com/SaniMah)
 - [Jayus Thiha](.)
 
 ## Contributors
 
 - [Jeevan Vetteel](https://github.com/jv-ds)
+- [Sanithma Mahawithanage](https://github.com/SaniMah)
 - [Nicholas Chan](.)
 - [Tyler Swann](https://github.com/oraqlle)
