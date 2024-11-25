@@ -10,6 +10,16 @@ In our experience presenting at MDN, we've fleshed out a methodology to preparin
 
 This probably the most important chapter in this book as it forms the foundation for what you're actually presenting.
 
+<figure>
+  <img src="./images/pyramid.png" >
+</figure>
+
 With a bad foundation, no matter how cool your PowerPoint looks, literally no one will care. 
 
 These frameworks have yielded us great success, and we hope it does the same for you ❤️.
+
+
+---
+
+Much of the content in this workshop is adapted from:
+- [Phil Waknell: 3 Magic Ingredients of Amazing Presentations](https://www.youtube.com/watch?v=yoD8RMq2OkU)
