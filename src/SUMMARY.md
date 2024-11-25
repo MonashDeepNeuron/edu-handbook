@@ -44,5 +44,6 @@
 - [Intro to 3D Modelling](./intro-to-3d.md)
 - [Intro to Google Colab](./intro-to-google-colab.md)
 
+- [Intro to DL](./intro-to-dl/intro-to-dl.md)
 
 [Acknowledgements](./acknowledgements.md)
