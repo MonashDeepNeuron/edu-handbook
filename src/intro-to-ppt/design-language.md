@@ -8,6 +8,11 @@ Fortunately, as an MDN member, there is not much work required from your end sin
 
 [**Click here to use the MDN Brand Guide (GDrive)**](https://drive.google.com/drive/u/4/folders/1BdJdZeJcvKBNRaSnMc5dYoFNmx9-wRc5)
 
+<figure style="text-align: center;">
+  <img src="./images/brand-photo.png">
+  <caption>MDN Brand Kit</caption>
+</figure>
+
 This brand kit is quite comprehensive on MDN's visual identity. 
 
 Use the navigation bar to move through the guide. 
