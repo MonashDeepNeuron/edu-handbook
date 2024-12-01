@@ -5,6 +5,7 @@
   - [Office 365](./setup/pptx.md)
   - [Expectations](./setup/expectations.md)
   - [Meetings](./setup/meetings.md)
+  - [Camera Training](./setup/camera.md)
   
 - [Workshop Administration](./workshop-admin/workshop-admin.md) 
   - [High School Outreach](./workshop-admin/hsoutreach.md)
