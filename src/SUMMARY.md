@@ -40,8 +40,20 @@
   - [Formatting](intro-to-ppt/formatting.md)
   - [3D Assets](intro-to-ppt/3dass.md)
     - [Finding](intro-to-ppt/3dass-finding.md)
-    - [Using](intro-to-ppt/3dass-using.md)     
-- [Intro to 3D Modelling](./intro-to-3d.md)
+    - [Using](intro-to-ppt/3dass-using.md)
+
+- [Intro to 3d Modelling](./intro-to-3d/intro-to-3d.md)
+  - [MoodBoard](intro-to-3d/Moodboard.md)
+  - [Intro To Womp](intro-to-3d/WompIntro.md)  
+  - [Interface Walkthrough](intro-to-3d/Interfacewalkthrough.md) 
+  - [Shape Creation](intro-to-3d/ShapeCreation.md) 
+  - [Gooping](intro-to-3d/Gooping.md) 
+  - [Complex 3d Models](intro-to-3d/images.md)
+  - [Formatting](intro-to-ppt/formatting.md)
+  - [3D Assets](intro-to-ppt/3dass.md)
+    - [Finding](intro-to-ppt/3dass-finding.md)
+    - [Using](intro-to-ppt/3dass-using.md)
+
 - [Intro to Google Colab](./intro-to-google-colab.md)
 
 - [Intro to DL](./intro-to-dl/intro-to-dl.md)
