@@ -1,10 +1,14 @@
 # Sharing
+<div align="center">
+    <iframe width="640" height="400" src="https://www.youtube.com/embed/V5oD3MPaCDY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 Since all PowerPoints are shared using OneDrive, when you initially click the link to the PowerPoint, you will be taken to the **web app** version of PowerPoint.
 
 You may also have already opened the PowerPoint using the actual application on your device.
 
 The process is virtually identical on both the desktop app and web app.
-
 
 ---
 
