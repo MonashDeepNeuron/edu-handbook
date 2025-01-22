@@ -8,10 +8,10 @@ All workshops follow a 3 step process:
 
 This chapter will cover the first portion- the workshop administration.
 
-This entails the following key points:
+```admonish title="3 keys for workshop administration"
+__1) When__
 
-```admonish title=''
-1) When
-2) Where
-3) Marketing the event
+__2) Where__
+
+__3) Marketing the event__
 ```
