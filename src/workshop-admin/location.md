@@ -15,9 +15,10 @@ Lighting is also important since it can have a big impact on engagement (poor li
 Ensure it is an area with minimal distraction or potential for a disruption during your workshop.
 
 Try to vet the room if possible before confirming/booking.
+<br/><br/>
 
-<figure>
-  <img src="./images/open.png" >
+<figure><center>
+  <img src="./images/open.png" width="600px">
   <figcaption><center>GOOD example of classroom</figcaption>
 </figure>
 
@@ -30,9 +31,9 @@ Try to vet the room if possible before confirming/booking.
 ```
 
 
-<figure>
-  <img src="./images/BAD.jpg" >
-  <figcaption><center>BAD example of classroom</figcaption>
+<figure><center>
+  <img src="./images/BAD.jpg" width="600px">
+  <figcaption><center>BAD example of classroom</center></figcaption>
 </figure>
 
 
