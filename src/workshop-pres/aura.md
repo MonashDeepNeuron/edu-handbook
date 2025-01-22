@@ -36,11 +36,6 @@ A monotone voice will send the audience to sleep.
 
 Try avoid talking too fast or slow.
 
-<video controls width="280">
-  <source src="./videos/tone.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## Speech
 
 The greatest scholar in the world is the worst presenter if they cannot effectively communicate content to an audience.
