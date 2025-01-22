@@ -7,10 +7,10 @@
   - [Meetings](./setup/meetings.md)
   
 - [Workshop Administration](./workshop-admin/workshop-admin.md) 
-  - [High School Outreach](./workshop-admin/hsoutreach.md)
   - [Timing Strategy](./workshop-admin/timing-strategy.md)
   - [Location](./workshop-admin/location.md)
   - [Marketing](./workshop-admin/marketing.md)
+  - [Using Monash Rooms](./workshop-admin/rooms.md)
 
 - [Workshop preparation](./workshop-prep/workshop-prep.md)
   - [The Audience](./workshop-prep/audience.md) 
