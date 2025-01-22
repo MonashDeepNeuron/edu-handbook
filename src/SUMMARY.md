@@ -25,10 +25,8 @@
   - [Aids/Props](./workshop-pres/props.md) 
   - [Mannerisms](./workshop-pres/mannerisms.md) 
   - [Control](./workshop-pres/control.md) 
-  - [Knowledge](./workshop-pres/knowledge.md) 
   - [Adaptability](./workshop-pres/adaptability.md) 
   - [Using Monash Rooms](./workshop-admin/rooms.md)
-  - [Activity](./workshop-pres/identify.md)
   
 - [Intro to PowerPoint](./intro-to-ppt/Intro-to-PowerPoint.md)
   - [Sharing](intro-to-ppt/sharing.md)
