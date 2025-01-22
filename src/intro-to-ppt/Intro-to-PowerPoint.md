@@ -2,7 +2,7 @@
 
 PowerPoint is one of the most powerful tools you have access to as a presenter.  
 
-Created by Forethought, Inc and currently owned and managed by Microsoft, PowerPoint is one of the most dominant presentation softwares on the planet. You are virtually guaranteed to use PowerPoint at some point in your career.
+Created by Forethought, Inc and currently owned and managed by Microsoft, PowerPoint the most dominant presentation softwares on the planet. You are virtually guaranteed to use PowerPoint at some point in your career.
 
 Due to its mass market adoption over the years, PowerPoint has improved gradually, adding features regularly and growing its functionality.
 
@@ -14,5 +14,5 @@ If you are an absolute beginner with PowerPoint, consult [this tutorial](https:/
 
 We're presuming that you have some baseline understanding of how to use the software and have it preinstalled on your device. 
 
-This chapter will go into detail as to how we design and utilise our slides at MDN specifically (i.e. how you put together a pptx)
+This chapter will go into detail as to how we design and utilise our slides at MDN. 
 
