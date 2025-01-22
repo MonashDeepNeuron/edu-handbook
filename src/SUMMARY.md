@@ -7,7 +7,6 @@
   - [Meetings](./setup/meetings.md)
   
 - [Workshop Administration](./workshop-admin/workshop-admin.md) 
-  - [High School Outreach](./workshop-admin/hsoutreach.md)
   - [Timing Strategy](./workshop-admin/timing-strategy.md)
   - [Location](./workshop-admin/location.md)
   - [Marketing](./workshop-admin/marketing.md)
@@ -38,9 +37,7 @@
   - [Animations](intro-to-ppt/animations.md) 
   - [Images](intro-to-ppt/images.md)
   - [Formatting](intro-to-ppt/formatting.md)
-  - [3D Assets](intro-to-ppt/3dass.md)
-    - [Finding](intro-to-ppt/3dass-finding.md)
-    - [Using](intro-to-ppt/3dass-using.md)     
+  - [3D Assets](intro-to-ppt/3dass.md)  
 - [Intro to 3D Modelling](./intro-to-3d.md)
 - [Intro to Google Colab](./intro-to-google-colab.md)
 

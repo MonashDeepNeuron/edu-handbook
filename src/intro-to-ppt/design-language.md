@@ -1,6 +1,8 @@
 # Design Language
 
-Design language is the set of visual elements, principles, and rules that define a PowerPoint's look and feel (within the context of workshops).
+```admonish note title="Design Language", class="custom-4 custom-1"
+The set of visual elements, principles, and rules that define a PowerPoint's look and feel.
+```
 
 It it crucial that all PowerPoints have a <ins>consistent</ins> design language (unless the nature of the workshop requires otherwise) as this helps us make the presentation more aesthetic.
 
