@@ -56,7 +56,7 @@
 </figure>
 
 <div style="background-color: #f0f8ff; padding: 20px;">
-    <span style="color:#5833ff;"><b>Color Picker Website:  </b></span>
+    <span style="color:#5833ff;"><b>Color Picker Website: https://imagecolorpicker.com/  </b></span>
 </div>
 
 <span style="color:#5833ff;"><b> - OVERALL NARRATIVE/CONCEPT </b></span>

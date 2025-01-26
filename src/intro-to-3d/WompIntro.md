@@ -1,9 +1,10 @@
+<div style="background-color:#fff0c2; padding: 20px;">
 <div style="background-image: url('./images3d/clouds.png'); background-size: cover; padding: 0px; text-align: center;">
     <h1 style="color:#5833ff;">Womp 3d</h1>
 </div>
 
 <div style="background-color: #f0f8ff; padding: 20px;">
-  <span style="color:#5833ff;">For 3d Modelling we will be using an online program called Womp! Website Link: </span>
+  <span style="color:#5833ff;">For 3d Modelling we will be using an online program called Womp! Website Link:https://womp.com/index </span>
 
 
 
@@ -19,16 +20,14 @@
 </div>
 
 <div style="background-color: #f0f8ff; padding: 20px;">
-  <span style="color:#5833ff;"><b>Why Womp? Here's a little preview of whats to come...<b></span>
+  <span style="color:#5833ff;"><b>Why Womp? <b></span>
 </div>
 
 
 <div style="background-color: #fcf2d2; padding: 20px;">
-  <span style="color:#5833ff;"><b>Womp's GOOP feature is the star of the show! It allows for limitless creative freedom...<b></span>
+  <span style="color:#5833ff;"><b>Womp's GOOP feature is the star of the show! It allows for limitless creative freedom! We will introduce it in the near future. <b></span>
 
 </div>
 
-<div style="background-color: #f0f8ff; padding: 20px;">
-  <span style="color:#5833ff;"><b>Put video here...<b></span>
-</div>
+
 

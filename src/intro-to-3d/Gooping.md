@@ -10,10 +10,16 @@
 </div>
 
 
-<span style="color:#5833ff;">Put Video here </span>
 
-<div style="background-color: #f0f8ff; padding: 20px;">
-    <span style="color:#5833ff;"><b>Extra Tips and Tricks </b></span>
+<div align="center">
+  <iframe width="640" height="400" src="https://www.youtube.com/embed/7sJDhzBP36o" 
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
+
+
+
+
 
 <div style="background-color: #291354; padding: 20px;">

@@ -4,9 +4,18 @@
 </div>
 
 <div style="background-color: #f0f8ff; padding: 20px;">
-  <span style="color:#5833ff;">Let's take a tour of womp 3d's workspace...(video) </span>
+  <span style="color:#5833ff;">Let's take a tour of womp 3d's workspace... </span>
 
 </div>
+
+<div align="center">
+  <iframe width="640" height="400" src="https://www.youtube.com/embed/-2dhmGQTqa8" 
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+
 
 <div style="background-color: #f0f8ff; padding: 20px;">
   <span style="color:#5833ff;">Summary of Womp's workspace - These are the sections you will interact with the most...</span>

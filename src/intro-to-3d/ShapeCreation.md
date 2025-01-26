@@ -10,7 +10,12 @@
 </div>
 
 
-<span style="color:#5833ff;">Put Video here </span>
+<div align="center">
+  <iframe width="640" height="400" src="https://www.youtube.com/embed/fNtaAl_4GzQ" 
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
 
 <div style="background-color: #291354; padding: 20px;">
 
