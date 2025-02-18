@@ -17,7 +17,6 @@
   - [The Journey](./workshop-prep/journey.md) 
   - [Journey Framework](./workshop-prep/journey-framework.md) 
   - [FERAL Framework](./workshop-prep/FERAL-framework.md) 
-  - [Checklist](./workshop-prep/checklist.md)
 
 - [Workshop Presentation](./workshop-pres/Workshop-Presentation.md)
   - [Questioning](./workshop-pres/questioning.md) 
