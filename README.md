@@ -25,9 +25,10 @@ $ mdbook serve --open
 
 ## Contributors
 
-- Tyler Swann
 - Jeevan Vetteel
+- Sanithma Mahawithanage
 - Justin (Jayus) Thiha
+- Tyler Swann
 
 ## Code of Conduct, License & Contributing
 

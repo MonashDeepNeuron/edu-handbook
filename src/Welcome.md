@@ -68,12 +68,6 @@ You can contribute to the book by accessing its GitHub repository (GitHub log in
 
 <div style="font-size: 0.75em;">
   <center>
-    <img src="https://img.shields.io/github/v/release/MonashDeepNeuron/Education-Training?include_prereleases" alt="Current Release">
-  </center>
-</div>
-
-<div style="font-size: 0.75em;">
-  <center>
-    <img src="https://img.shields.io/github/v/release/jv-ds/MDN-Edu-Handbook?include_prereleases" alt="Current Release">
+    <img src="https://img.shields.io/github/v/release/MonashDeepNeuron/edu-handbook?include_prereleases" alt="Current Release">
   </center>
 </div>
