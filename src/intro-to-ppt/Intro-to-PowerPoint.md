@@ -2,11 +2,7 @@
 
 PowerPoint is one of the most powerful tools you have access to as a presenter.  
 
-<<<<<<< HEAD
 Created by Forethought, Inc and currently owned and managed by Microsoft, PowerPoint is the most dominant presentation software on the planet. You are virtually guaranteed to use PowerPoint at some point in your career.
-=======
-Created by Forethought, Inc and currently owned and managed by Microsoft, PowerPoint is the most dominant presentation softwares on the planet. You are virtually guaranteed to use PowerPoint at some point in your career.
->>>>>>> 29722cc04bc9bdad1b195936b14e6ab268cea749
 
 Due to its mass market adoption over the years, PowerPoint has improved gradually, adding features regularly and growing its functionality.
 
