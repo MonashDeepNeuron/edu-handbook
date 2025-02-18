@@ -17,7 +17,13 @@ Within the context of university, when planning events:
 
 Using this knowledge is crucial.
 
-In our experience, you should aim to position your key, headliner events (in our case: Intro to AI, Intro to HPC etc things of that nature) towards the first 4 weeks of semester.
+In our experience, you should aim to position your key, headliner events (in our case: Intro to AI, Intro to HPC etc things of that nature) towards the first 3-4 weeks of semester.
+
+This graph shows a generalised visual of how the interest looks across the sem.
+
+<figure><center>
+  <img src="./images/interest-graph.png" width="500">
+</figure>
 
 Week 1 in Sem 1 is also a fantastic time to have a lot of jaffies attend if you wish to target that audience.
 

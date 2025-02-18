@@ -16,6 +16,7 @@ Some examples of mannerisms:
 * Fidgeting (likely distracting)
 * Use of hand gestures (likely productive)
 * Strong eye contact (likely productive)
+
 ## Eye contact
 **Eye contact** is by far the MOST IMPORTANT mannerism.
 

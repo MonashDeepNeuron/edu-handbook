@@ -7,7 +7,6 @@
   - [Meetings](./setup/meetings.md)
   
 - [Workshop Administration](./workshop-admin/workshop-admin.md) 
-  - [High School Outreach](./workshop-admin/hsoutreach.md)
   - [Timing Strategy](./workshop-admin/timing-strategy.md)
   - [Location](./workshop-admin/location.md)
   - [Marketing](./workshop-admin/marketing.md)
@@ -18,7 +17,6 @@
   - [The Journey](./workshop-prep/journey.md) 
   - [Journey Framework](./workshop-prep/journey-framework.md) 
   - [FERAL Framework](./workshop-prep/FERAL-framework.md) 
-  - [Checklist](./workshop-prep/checklist.md)
 
 - [Workshop Presentation](./workshop-pres/Workshop-Presentation.md)
   - [Questioning](./workshop-pres/questioning.md) 
@@ -26,9 +24,8 @@
   - [Aids/Props](./workshop-pres/props.md) 
   - [Mannerisms](./workshop-pres/mannerisms.md) 
   - [Control](./workshop-pres/control.md) 
-  - [Knowledge](./workshop-pres/knowledge.md) 
   - [Adaptability](./workshop-pres/adaptability.md) 
-  - [Activity](./workshop-pres/identify.md)
+  - [Using Monash Rooms](./workshop-admin/rooms.md)
   
 - [Intro to PowerPoint](./intro-to-ppt/Intro-to-PowerPoint.md)
   - [Sharing](intro-to-ppt/sharing.md)
@@ -38,11 +35,10 @@
   - [Animations](intro-to-ppt/animations.md) 
   - [Images](intro-to-ppt/images.md)
   - [Formatting](intro-to-ppt/formatting.md)
-  - [3D Assets](intro-to-ppt/3dass.md)
-    - [Finding](intro-to-ppt/3dass-finding.md)
-    - [Using](intro-to-ppt/3dass-using.md)     
-- [Intro to 3D Modelling](./intro-to-3d.md)
+  - [3D Assets](intro-to-ppt/3dass.md)  
+<!-- - [Intro to 3D Modelling](./intro-to-3d.md)
 - [Intro to Google Colab](./intro-to-google-colab.md)
 
-
+- [Intro to DL](./intro-to-dl/intro-to-dl.md)
+-->
 [Acknowledgements](./acknowledgements.md)
