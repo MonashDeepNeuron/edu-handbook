@@ -37,9 +37,9 @@
   - [Images](intro-to-ppt/images.md)
   - [Formatting](intro-to-ppt/formatting.md)
   - [3D Assets](intro-to-ppt/3dass.md)  
-- [Intro to 3D Modelling](./intro-to-3d.md)
+<!-- - [Intro to 3D Modelling](./intro-to-3d.md)
 - [Intro to Google Colab](./intro-to-google-colab.md)
 
 - [Intro to DL](./intro-to-dl/intro-to-dl.md)
-
+-->
 [Acknowledgements](./acknowledgements.md)
