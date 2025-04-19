@@ -1,6 +1,3 @@
-# Expectations
-The following are probation requirements for new members in their respective teams:
-
 ## AI Outreach
 1. Read the entirety of the education training booklet
 2. Program a simple deep learning model & explain your program theoretically

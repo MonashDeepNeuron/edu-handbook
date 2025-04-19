@@ -4,8 +4,9 @@
 - [Setup & Member Induction](./setup/setup.md)
 
   - [Office 365](./setup/pptx.md)
-  - [Expectations](./setup/expectations.md)
-    - [Induction Process: Awareness and Outreach](./induction-process-ao.md)
+  - [Induction Process](./setup/induction.md)
+    - [AI Outreach](./setup/expectations.md)
+    - [Awareness and Outreach](./induction-process-ao.md)
   - [Meetings](./setup/meetings.md)
 
 - [Workshop Administration](./workshop-admin/workshop-admin.md)
