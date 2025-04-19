@@ -5,6 +5,7 @@
 
   - [Office 365](./setup/pptx.md)
   - [Expectations](./setup/expectations.md)
+    - [Induction Process: Awareness and Outreach](./induction-process-ao.md)
   - [Meetings](./setup/meetings.md)
 
 - [Workshop Administration](./workshop-admin/workshop-admin.md)
@@ -13,6 +14,14 @@
   - [Location](./workshop-admin/location.md)
   - [Marketing](./workshop-admin/marketing.md)
   - [Business/Events](./workshop-admin/business-events.md)
+
+- [Connecting with Schools](./connect/connecting-with-schools.md)
+
+  - [How to Research & Choose Schools](./connect/research-choose-schools.md)
+  - [How to Email Schools Effectively](./connect/email-schools.md)
+  - [How to Calls Schools Effectively](./connect/call-schools.md)
+  - [Best Follow Up Practices](./connect/best-follow-up.md)
+  - [Securing the Workshop](./connect/securing.md)
 
 - [Workshop preparation](./workshop-prep/workshop-prep.md)
 
@@ -53,17 +62,9 @@
   - [3D Assets](intro-to-ppt/3dass.md)
   <!-- - [Intro to 3D Modelling](./intro-to-3d.md)
 
-- [The MDN Education Playbook](./connect/connecting-with-schools.md)
-
-  - [How to Research & Choose Schools](./connect/research-choose-schools.md)
-  - [How to Email Schools Effectively](./connect/email-schools.md)
-  - [How to Calls Schools Effectively](./connect/call-schools.md)
-  - [Best Follow Up Practices](./connect/best-follow-up.md)
-  - [Securing the Workshop](./connect/securing.md)
-
-- [Induction Process: Awareness and Outreach](./induction-process-ao.md)
+ <!--
 - [Intro to Google Colab](./intro-to-google-colab.md)
 
 - [Intro to DL](./intro-to-dl/intro-to-dl.md)
-
+-->
 - [Acknowledgements](./acknowledgements.md)
