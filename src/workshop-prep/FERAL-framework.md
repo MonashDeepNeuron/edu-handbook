@@ -1,101 +1,69 @@
 # FERAL Framework
 
-Now that we have the idea behind what our workshop should achieve, let's narrow down on how we're going to curate our content to get there.
+Workshops at MDN aren’t just “sit-and-listen” sessions – we make them **interactive, engaging, and actually worth attending**. That’s where **FERAL** comes in.  
+No, it’s not about going absolutely wild _(although, sometimes that happens hehe 😉)._
 
-Through all our experience, we've distilled what we believe are the 5 key points which underpin a great workshop.
+It’s about creating workshops that:  
+✅ **Flow** seamlessly  
+✅ **Engagement** with participants  
+✅ **Relatablity** to real-life concepts  
+✅ **Aesthetically** beautiful  
+✅ **Legacy** create
 
-# Make your workshops FERAL
+And why do we do it? Because **education is more than just delivering information** – it’s about making an impact.
 
-## **Flow**
+As **your Education Leads**, here’s what drives us:
 
-Each section of the workshop leads into the following sections smoothly; the workshop follows the patterns of a narrative.
+<style>
+.quote-container {
+  display: flex;
+  align-items: center;
+  background-color: #f5f7ff;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 30px 0;
+  gap: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
 
-Don't think about the workshop as separate parts you join together, think about it as a narrative/story, which you fill in.
+.quote-container img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
 
-<figure>
-  <img src="./images/flow1.png" alt="Audience">
-  <figcaption>Example of planning the flow of workshop with preliminary schematics</figcaption>
-</figure>
+.quote-content {
+  flex: 1;
+}
 
-<figure>
-  <img src="./images/flow2.png" alt="Audience">
-  <figcaption>real example of workshop with high school students.</figcaption>
-</figure>
+.quote-content p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+</style>
 
-## Engagement
+<div class="quote-container">
+  <img src="./images/sarge.jpeg" alt="Shajana (Sarge)">
+  <div class="quote-content">
+    <p>💬 <em>"One of the major highlights of teaching is witnessing that 'Aha!' moment on a student’s face. It’s absolutely priceless to see someone transition from confusion to understanding – from ‘what on earth is this?’ to ‘I actually get it now.’ That’s exactly why I teach, and I know it resonates with many of us in this profession."</em></p>
+    <p><strong>– Shajana (Sarge)</strong>, Education Co-Lead</p>
+  </div>
+</div>
 
-As a rule of thumb:
-> At least 1/3 of the entire workshop should be purely practical activities
+<div class="quote-container">
+  <img src="./images/jeevan.jpg" alt="Jeevan">
+  <div class="quote-content">
+    <p>💬 <em>"I believe deep learning will be a cornerstone technology in solving some of our biggest problems, so the opportunity to turn something which is (seemingly) complicated into something tangible that students can understand is what makes MDN Education so amazing."</em></p>
+    <p><strong>– Jeevan</strong>, Education Co-Lead</p>
+  </div>
+</div>
 
-There are obviously exceptions, but generally, 1:2 ratio between listening and action should occur.
+This is why **FERAL** exists – it’s our way of ensuring that every MDN workshop is an **experience**, not just a lecture.
 
-We want participants to be actively engaged during these activities. 
+In our personal experience of curating workshops at MDN, we have distilled these **5 key criteria points** that outline what makes our workshops so great 🔥.
 
-<figure>
-  <img src="./images/engagement1.png" alt="Audience">
-  <figcaption>Example: Demonstrate supervised learning with an online model (AI Workshop)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/engagement2.png" alt="Audience">
-  <figcaption>Example: Doing a scavenger hunt for particular pre-trained models on hugging face (AI Workshop)</figcaption>
-</figure>
-
-## Relatability
-
-As a rule of thumb:
-> Each and every new idea displayed in your workshop is associated with either an analogy, relatable example, or media reference
-
-No exceptions.
-
-<figure>
-  <img src="./images/relatability1.png" alt="Audience">
-  <figcaption>Example: Demonstrate the applications of AI via the youtube algorithm and doomscrolling (AI Workshop)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/relatability2.png" alt="Audience">
-  <figcaption>Example: Demonstrate the behaviours of CNNs by determining the difference between a clock and a compass (AI Workshop)</figcaption>
-</figure>
-
-## Aesthetic
-
-This is what really separates us from the pack.
-
-Later on in the booklet, there is greater detail with regards to how specifically we achieve this. 
-
-Here are the guiding principles:
-
-Each and every slide follows the same design language, as referenced by a design guidelines document.
-
-At MDN, you use the MDN Branding kit.
-
-<!-- Add link here skrrr -->
-
-<figure>
-  <img src="./images/aes1.gif" alt="Audience">
-  <figcaption>Example: Utilizing assets and graphics MDN branding kit (animated in powerpoint btw) (AI Workshop)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/aes2.png" alt="Audience">
-  <figcaption>Example: Following the font size and style guidelines from the MDN branding kit (AI Workshop)</figcaption>
-</figure>
-
-<figure>
-  <img src="./images/aes3.png" alt="Audience">
-  <figcaption>Example: Typeface guide as specified by the VicHack 2024 branding kit </figcaption>
-</figure>
-
-<figure>
-  <img src="./images/aes4.png" alt="Audience">
-  <figcaption>Example: Asset library as provided in the VicHack branding kit </figcaption>
-</figure>
-
-## **Legacy**
-
-Under the guise of the 4 aforementioned principles, students are left impressed and imprinted of the workshop; make this workshop one not worth forgetting.
-
-<!-- Add images?? -->
-
-> If your workshop was good, you SHOULD have people you've never met before staying back afterwards chatting to you.
+🚀 **Let’s break it down.** 👇

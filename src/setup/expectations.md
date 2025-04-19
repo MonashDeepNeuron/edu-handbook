@@ -1,6 +1,3 @@
-# Expectations
-The following are probation requirements for new members in their respective teams:
-
 ## AI Outreach
 1. Read the entirety of the education training booklet
 2. Program a simple deep learning model & explain your program theoretically
@@ -23,12 +20,4 @@ link to ai booklet
 link to this booklet
 -->
 You are also not expected to program completely by memory, but your explanations of concepts should be strong without reference to notes.
-
-## L&E Outreach
-
-1) Create an engaging slideshow presentation to demonstrate either: effective morph transitions, use of 3D objects, sketches, or any other creative PowerPoint techniques.
-
-2) Engage with a member of Education and ask questions to test understanding of technical concepts in the workshop.
-
-3) Read ethical principles of AI use, specifically Accountability, Bias, and Privacy.
 
